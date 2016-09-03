@@ -1,0 +1,28 @@
+One Direction::Dogs::Songs::Cities::Colors
+100::500::800::1000::2000
+::One Direction::100::A member that left the band::zayn malik
+::One Direction::500::The dude that kinda looks like a puppy::liam payne
+::One Direction::800::Dude is not a natural blonde but he acts like it::niall horan
+::One Direction::1000::Boy chopped his curls::harry styles
+::One Direction::2000::The best one obvs::louis tomlinson
+::Dogs::100::Typical fire dog::dalmatian
+::Dogs::500::They pull the sleds up north::husky
+::Dogs::800::They look like sausages::dachshund 
+::Dogs::1000::They get things::golden retriever 
+::Dogs::2000::They have short legs::corgi
+::Songs::100::You only get one shot do not miss your chance to blow::lose yourself
+::Songs::500::i like big butts and i cannot lie::baby got back
+::Songs::800::im a nightmare dressed like a daydream::blank space
+::Songs::1000::youre insecure dont know what for::what makes you beautiful
+::Songs::2000::apple bottom jeans boots with the fur::low
+::Cities::100::the bae area::san francisco
+::Cities::500::its too hot here::los angeles
+::Cities::800::steph plays here::oakland
+::Cities::1000::my house::saratoga
+::Cities::2000::i took a pill in::ibiza
+::Colors::100::rhymes with dead::red
+::Colors::500::my skin::brown
+::Colors::800::the sky::blue
+::Colors::1000::what we wish the color of the grass is::green
+::Colors::2000::You only get one shot do not miss your chance to blow::lose yourself
+::FJ::What is the meaning of life::42
